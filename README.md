@@ -6,6 +6,7 @@ Project 0 Getting Started
 * Chen Cheng
   * [GitHub](https://github.com/ischencheng)
   * [LinkedIn](https://www.linkedin.com/in/chen-andrew-cheng-34a133229/)
+* Late days used for this project: **0**.
 * Tested on: Windows 11 Home (build 26200), Intel Core i5-12500H, 16 GB RAM,
   NVIDIA GeForce RTX 2050 with 4 GB VRAM (personal HONOR GLO-FX6P laptop).
 * GPU Compute Capability: **8.6** (`sm_86`), reported by the running application.
